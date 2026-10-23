@@ -11,6 +11,7 @@ VENV_PYTHON = HERE / ".venv/bin/python"
 PACKS = {
     "family": READY_DIR / "valera_family_pack.zip",
     "butler": READY_DIR / "valera_butler.zip",
+    "gamer": READY_DIR / "valera_gamer.zip",
     "backup": READY_DIR / "backup_first_pass_custom_voicepack.zip",
     "original": READY_DIR / "ru_robot_new.zip",
 }

@@ -20,6 +20,7 @@ custom_voicepack/audio/*
 custom_voicepack/audio_backup_first_pass/
 custom_voicepack/valera_butler_audio/
 custom_voicepack/valera_family_audio/
+custom_voicepack/valera_gamer_audio/
 resources/official_voice_ru/*.mp3
 *.log
 *.wav
