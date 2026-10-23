@@ -1,4 +1,5 @@
 .venv/
+.venv311/
 .env
 state/*.json
 state/*.sha256
@@ -16,7 +17,12 @@ official_voicepacks/*
 !official_voicepacks/.gitkeep
 custom_voicepack/audio/*
 !custom_voicepack/audio/.gitkeep
+custom_voicepack/audio_backup_first_pass/
+custom_voicepack/valera_butler_audio/
+custom_voicepack/valera_family_audio/
 resources/official_voice_ru/*.mp3
 *.log
+*.wav
+*.mp3
 .DS_Store
 Thumbs.db

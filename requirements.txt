@@ -5,5 +5,5 @@ requests>=2.31,<3
 pycryptodome>=3.20
 rarfile>=4.2,<5
 tzlocal>=5
-PythonForWindows
+PythonForWindows; sys_platform == 'win32'
 cryptography
