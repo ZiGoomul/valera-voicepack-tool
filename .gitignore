@@ -18,6 +18,7 @@ official_voicepacks/*
 custom_voicepack/audio/*
 !custom_voicepack/audio/.gitkeep
 custom_voicepack/audio_backup_first_pass/
+custom_voicepack/valera_birthday_audio/
 custom_voicepack/valera_butler_audio/
 custom_voicepack/valera_family_audio/
 custom_voicepack/valera_gamer_audio/
